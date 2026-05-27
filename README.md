@@ -7,7 +7,7 @@ Tampilan Info
 Tampilan Settings
 <img width="1920" height="1080" alt="Screenshot (381)" src="https://github.com/user-attachments/assets/fa4aae8a-8302-44f4-a359-42d2f9a228ad" />
 Tampilan Levels
-<img width="1920" height="1080" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/6a5815f6-5cff-423a-b4d5-67ac7cedb43c" />
+<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/627d9e87-a6d6-4fac-900d-4f739494fb71" />
 Tampilan Level 1
 <img width="1920" height="1080" alt="Screenshot (385)" src="https://github.com/user-attachments/assets/71099771-1554-4a56-a3fc-9d031d6daaef" />
 Tampilan Level 2
